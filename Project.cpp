@@ -1,0 +1,4 @@
+#inclube <iostream>
+int main() {
+
+}
